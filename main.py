@@ -71,7 +71,7 @@ def withdrawal(balance):
 
         return 0
     else:
-        amount = amount
+        return amount
 
     print("*" * 20)
     os.system("clear")
